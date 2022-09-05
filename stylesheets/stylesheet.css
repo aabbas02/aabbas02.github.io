@@ -51,7 +51,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#fff;
-  background: #fff;
+  background: #ff0;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -287,7 +287,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: -webkit-linear-gradient(top, #fff, #f00);
+  background: -webkit-linear-gradient(top, #fff, #fff);
 }
 
 #header_wrap .inner {
@@ -372,6 +372,7 @@ Small Device Styles
 @media screen and (max-width: 480px) {
   body {
     font-size:14px;
+	background:#000;
   }
 
   #downloads {
