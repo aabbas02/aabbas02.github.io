@@ -287,12 +287,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #ff0;
-  background: -moz-linear-gradient(top, #fff, #fff);
-  background: -webkit-linear-gradient(top, #fff, #fff);
-  background: -ms-linear-gradient(top, #fff, #fff);
-  background: -o-linear-gradient(top, #fff, #fff);
-  background: linear-gradient(top, #fff, #fff);
+  background: -webkit-linear-gradient(top, #fff, #f00);
 }
 
 #header_wrap .inner {
