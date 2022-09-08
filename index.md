@@ -7,7 +7,7 @@ layout: default
  <a href='#about-me' style='color: #159957'>About Me</a> |
  <a href='#research-interests' style='color: #159957'>Research Interests</a> |
  <a href='#teaching' style='color: #159957'>Publications</a> |
- <a href='#educational-outreach' style='color: #159957'>Talks</a> |
+ <a href='#educational-outreach' style='color: #159957'>Talks</a> 
   </font>  
 </p>
 
