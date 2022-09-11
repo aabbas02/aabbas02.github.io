@@ -13,8 +13,17 @@ layout: default
 
 
 # About Me
-
 <p align="center">
 <img src="AhmedAbbasiMe.jpg" width="30%" height="30%" > 
 </p>
 
+# Publications
+<p align="center">
+ <head>
+    <title>A simple algorithm for r-local and k-sparse unlabeled sensing</title>
+</head>
+  <body>
+    <h1>A simple algorithm for r-local and k-sparse unlabeled sensing</h1>
+    <p>Open a PDF file <a href="ULSLetter.pdf">example</a>.</p>
+  </body>
+</html>
