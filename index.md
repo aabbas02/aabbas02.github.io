@@ -18,4 +18,6 @@ layout: default
 </p>
 
 # Publications
-<a href="ULSLetter.pdf">A simple algorithm for r-local and k-sparse unlabeled sensing</a>
+<ol>
+<li><a href="ULSLetter.pdf">A simple algorithm for r-local and k-sparse unlabeled sensing.pdf</a></li>
+</ol>
