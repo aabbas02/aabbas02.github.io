@@ -5,7 +5,7 @@ layout: default
 <p  align="center">
  <font size="+2">
  <a href='#about-me' style='color: #159957'>About Me</a> |
- <a href='#Talks' style='color: #159957'>Talks</a> |
+ <a href='#talks' style='color: #159957'>Talks</a> |
  <a href='#publications' style='color: #159957'>Publications</a> |
  <a href='#research-interests' style='color: #159957'>Research Interests</a> |
  </font>  
