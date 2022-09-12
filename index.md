@@ -18,7 +18,7 @@ layout: default
 </p>
 
 # Talks
-<h2> Paper presentation at ICASSP 2022.  </h2>
+<h2> Paper presentation at ICASSP 2022  </h2>
 <video width="320" height="240" controls>
   <source src="ICASSP.mp4" type="video/mp4">
   <!--<source src="movie.ogg" type="video/ogg">-->
