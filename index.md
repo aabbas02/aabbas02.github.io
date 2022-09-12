@@ -18,7 +18,7 @@ layout: default
 </p>
 
 # Talks
-<video width="320" height="240" autoplay muted>
+<video width="320" height="240">
   <source src="ICASSP.mp4" type="video/mp4">
 </video>
 
