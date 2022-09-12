@@ -18,6 +18,7 @@ layout: default
 </p>
 
 # Talks
+<h1>  </h1>
 <video width="320" height="240" controls>
   <source src="ICASSP.mp4" type="video/mp4">
   <!--<source src="movie.ogg" type="video/ogg">-->
@@ -26,9 +27,8 @@ layout: default
 
 # Publications
 <ol>
-<li><a href="ULSLetter.pdf">A simple algorithm for r-local and k-sparse unlabeled sensing.pdf</a></li>
-<li><a href="Paper1.pdf">r-local unlabeled sensing: improved  algorithm and applications.pdf</a></li>
-<li><a href="Paper2.pdf">r-local unlabeled sensing: a novel graph matching approach for multiview unlabeled sensing under local permutations.pdf</a></li>
+<li><a href="ULSLetter.pdf">Ahmed Ali Abbasi. A simple algorithm for r-local and k-sparse unlabeled sensing (DRAFT). </a></li>
+<li><a href="Paper1.pdf">Ahmed Ali Abbasi, Abiy Tasissa, and Shuchin Aeron. r-local unlabeled
+sensing: Improved algorithm and applications. In ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 5593–5597, 2022.</a></li>
+<li><a href="Paper2.pdf">Ahmed Ali Abbasi, Abiy Tasissa, and Shuchin Aeron. R-local unlabeled sensing: A novel graph matching approach for multiview unlabeled sensing under local permutations. IEEE Open Journal of Signal Process.,2:309–317, 2021.</a></li>
 </ol>
-
-# 
