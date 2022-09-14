@@ -31,7 +31,7 @@ layout: default
   <source src="lowRankMatrixCompletion.mp4" type="video/mp4">
 </video>
 </li>
-
+</ol>
 
 # Publications
 <ol>
