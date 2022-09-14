@@ -20,13 +20,13 @@ layout: default
 # Talks
 <ol>
 <li>
-<h3> Paper presentation at ICASSP 2022  </h2>
+<h3> Paper presentation at ICASSP 2022  </h3>
 <video width="320" height="240" controls>
   <source src="ICASSP.mp4" type="video/mp4">
 </video>
 </li>
 <li>
-<h3> Low rank matrix completion (Part 2)  </h2>
+<h3> Low rank matrix completion (Part 2)  </h3>
 <video width="320" height="240" controls>
   <source src="lowRankMatrixCompletion.mp4" type="video/mp4">
 </video>
