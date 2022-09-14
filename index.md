@@ -26,7 +26,7 @@ layout: default
 </video>
 </li>
 <li>
-<h3> Low rank matrix completion  </h2>
+<h3> Low rank matrix completion (Part 2)  </h2>
 <video width="320" height="240" controls>
   <source src="lowRankMatrixCompletion.mp4" type="video/mp4">
 </video>
