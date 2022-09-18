@@ -15,7 +15,7 @@ layout: default
 # About Me
 
 My name is Ahmed Ali Abbasi, and I am passionate about solving problems in Electrical Engineering and Applied Mathematics. During my undergraduate and graduate education, I have developed a strong mathematical background and gained research experience in signal processing, information theory, and deep learning.
-During my master's, I completed three research papers on the unlabeled sensing problem. In these works, I proposed a state-of-the-art alternating minimization algorithm with a provably effective initialization. I connected unlabeled sensing to a broader class of `unassigned' problems by formulating unassigned distance geometry as an unlabeled sensing problem. I also proposed the novel $r$-local unlabeled sensing model and applied it to the linked linear regression problem in statistics.
+I have completed three research papers on the unlabeled sensing problem. In these works, I proposed a state-of-the-art alternating minimization algorithm with a provably effective initialization. I connected unlabeled sensing to a broader class of `unassigned' problems by formulating unassigned distance geometry as an unlabeled sensing problem. I also proposed the novel $r$-local unlabeled sensing model and applied it to the linked linear regression problem in statistics.
 
 
 <p align="center">
