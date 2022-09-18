@@ -36,7 +36,7 @@ During my master's, I completed three research papers on the unlabeled sensing p
 </li>
 <li>
 <h3> Low rank matrix completion (Part 2)  </h3>
-<a href="https://arxiv.org/abs/2110.14034](https://arxiv.org/abs/0910.1879"> ArXiv link to David Gross's publication. </a>
+<a href="https://arxiv.org/abs/0910.1879"> ArXiv link to David Gross's publication. </a>
 <video width="320" height="240" controls>
   <source src="lowRankMatrixCompletion.mp4" type="video/mp4">
 </video>
