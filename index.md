@@ -14,10 +14,7 @@ layout: default
 
 # About Me
 
-My name is Ahmed Ali Abbasi, and I am passionate about solving problems in Electrical Engineering and Applied Mathematics. During my undergraduate and graduate education, I have developed a strong mathematical background and gained research experience in signal processing, information theory, and deep learning. I am applying to the PhD program to make a significant contribution to research and academia. Motivated by recent works on low rank matrix completion, compressed sensing, and distributed optimization,  I want to mathematically analyze problems and propose algorithms with performance guarantees. 
-
-In 2017, I graduated with a bachelor's in Electrical Engineering from the National University of Science and Technology, Pakistan.  NUST is  the highest ranking university in Pakistan and is ranked 334th worldwide. In 2022, I graduated from Tufts University with a master's in Electrical and Computer Engineering (ECE). As a graduate student, I maintained a diverse interest in many topics and took courses in Applied Mathematics, Information Theory, Signal Processing, and Deep Learning. I am the inaugural ECE recipient of the Tufts Tripods Graduate fellowship. Tripods was founded as a merit-based fellowship in 2020. The fellowship is awarded each year to three students from the School of Engineering. At Tufts, I also received the Greenough Graduate Fellowship for attaining the 1st position in the ECE PhD qualification exam.
-
+My name is Ahmed Ali Abbasi, and I am passionate about solving problems in Electrical Engineering and Applied Mathematics. During my undergraduate and graduate education, I have developed a strong mathematical background and gained research experience in signal processing, information theory, and deep learning.
 During my master's, I completed three research papers on the unlabeled sensing problem. In these works, I proposed a state-of-the-art alternating minimization algorithm with a provably effective initialization. I connected unlabeled sensing to a broader class of `unassigned' problems by formulating unassigned distance geometry as an unlabeled sensing problem. I also proposed the novel $r$-local unlabeled sensing model and applied it to the linked linear regression problem in statistics.
 
 
