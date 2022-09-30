@@ -43,7 +43,7 @@ I have completed three research papers on the unlabeled sensing problem. In thes
 # Publications
 <ol>
 <li>
-<a href="Paper3.pdf">Ahmed Ali Abbasi, Abiy Tasissa, and Shuchin Aeron. A simple algorithm for r-local and k-sparse unlabeled sensing.
+<a href="ULS.pdf">Ahmed Ali Abbasi, Abiy Tasissa, and Shuchin Aeron. A simple algorithm for r-local and k-sparse unlabeled sensing.
 </a></li>
 <li>
 <a href="Paper1.pdf">Ahmed Ali Abbasi, Abiy Tasissa, and Shuchin Aeron. r-local unlabeled
